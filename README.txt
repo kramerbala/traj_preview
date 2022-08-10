@@ -8,3 +8,4 @@ about - Saul Gyermekei aloldal
 
 elements - X
 contact - X
+New Text Document - X
