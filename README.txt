@@ -9,3 +9,7 @@ about - Saul Gyermekei aloldal
 elements - X
 contact - X
 New Text Document - X
+
+
+Timelines - https://freefrontend.com/css-timelines/
+Image Caption - https://jsfiddle.net/bootstrapious/nru1qk2b
